@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on software
-- 📫 How to reach me Thunder371@pm.me
+- 📫 How to reach me thunder.public.4vz15@slmail.me
 
 <!---
 Thunder371/Thunder371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
